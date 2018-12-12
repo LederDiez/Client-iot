@@ -1,2 +1,2 @@
 # Client-iot
-Client Iot developed in arduino code for ESP8266
+Client Iot developed in arduino code for ESP-12
